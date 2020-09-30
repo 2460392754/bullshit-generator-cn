@@ -1,0 +1,8 @@
+{
+  "name": "bullshit-generator-cn",
+  "version": "0.1.0",
+  "main": "app.js",
+  "repository": "git@github.com:wangsijie/bullshit-generator-cn.git",
+  "author": "wangsijie <i@sijie.wang>",
+  "license": "MIT"
+}
